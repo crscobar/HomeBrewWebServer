@@ -1,0 +1,5 @@
+curl http://localhost:5000/ascii.txt?awesome=cs361
+curl http://localhost:5000/doesnotexist
+curl http://localhost:5000/index.html
+curl http://localhost:5000/cgi-bin/hello-world.py
+curl http://localhost:5000/cgi-bin/hello-world.py?first_name=Mike&last_name=Hawk
